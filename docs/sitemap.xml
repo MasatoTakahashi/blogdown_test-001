@@ -2,85 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/migrate-from-jekyll/</loc>
+    <loc>/post/2017-04-02-/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/go-is-for-lovers/</loc>
+    <loc>/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/hugo-is-for-lovers/</loc>
+    <loc>/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/creating-a-new-theme/</loc>
+    <loc>/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/categories/ipsum/</loc>
+    <loc>/categories/ipsum/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/categories/lorem/</loc>
+    <loc>/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/tags/plot/</loc>
+    <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/post/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/categories/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/tags/r-markdown/</loc>
+    <loc>/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/tags/regression/</loc>
+    <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://masatotakahashi.github.io/blogdown_test-001/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ipsum on Strata</title>
-    <link>https://masatotakahashi.github.io/blogdown_test-001/categories/ipsum/index.xml</link>
+    <link>/categories/ipsum/index.xml</link>
     <description>Recent content in Ipsum on Strata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <atom:link href="https://masatotakahashi.github.io/blogdown_test-001/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/ipsum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Go is for lovers</title>
-      <link>https://masatotakahashi.github.io/blogdown_test-001/post/go-is-for-lovers/</link>
+      <link>/post/go-is-for-lovers/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>https://masatotakahashi.github.io/blogdown_test-001/post/go-is-for-lovers/</guid>
+      <guid>/post/go-is-for-lovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
