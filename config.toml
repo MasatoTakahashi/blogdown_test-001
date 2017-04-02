@@ -1,5 +1,7 @@
 baseurl = "https://masatotakahashi.github.io/blogdown_test-001/"
+relativeurls = true
 publishDir = "docs"
+hasCJKLanguage = true
 languageCode = "ja-jp"
 title = "Strata"
 theme = "hugo-strata-theme"
